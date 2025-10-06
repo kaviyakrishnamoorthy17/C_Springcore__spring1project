@@ -1,4 +1,4 @@
-package com.tnsif.PlacementManagement_Student;
+package com.tnsif.placement;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

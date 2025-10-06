@@ -1,4 +1,4 @@
-package com.tnsif.PlacementManagement_Student;
+package com.tnsif.placement;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
